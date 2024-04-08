@@ -1,0 +1,10 @@
+➜  finalsol ./fol                                                       
+Enter the path to the input directory: imgs
+Total augmentation time: 745.278 milliseconds 
+for 4 images
+
+
+➜  finalsol ./fol
+Enter the path to the input directory: imgs
+Total augmentation time: 2248.15 milliseconds
+for 12 images
