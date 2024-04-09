@@ -1,0 +1,17 @@
+USING CPU SEQUENTIAL CODE
+
+➜  cppcomp ./fol imgs
+Gaussian blur applied to images in the folder: imgs
+Blurred images saved in the folder: blur
+Execution time: 1.42874 seconds
+2 imgs only blur
+
+Gaussian blur applied to images in the folder: imgs
+Blurred images saved in the folder: blur
+Execution time: 2.79108 seconds
+4 imgs only blur
+
+Gaussian blur applied to images in the folder: imgs
+Blurred images saved in the folder: blur
+Execution time: 4.02762 seconds
+8 imgs only blur
